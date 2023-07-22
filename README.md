@@ -1,5 +1,5 @@
 
-# Cine-Melody-Insights
+# <h1 align="center"> Cine-Melody-Insights</h1>
 
 
 
